@@ -5,15 +5,8 @@ Project List
 1. [Ecommerce Sales Analysis Dashboard](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/Ecommerce%20Sales%20Analysis%20Dashboard)
 2. [HR Analytics Dashboard](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/HR%20Analytics%20Dashboard)
 3. [Adidas Sales Analysis Dashborad](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/Adidas%20Sales%20Analysis%20Dashborad)
-README
-Data Analysis in Excel
-This repository contains a collection of data analysis projects conducted in Microsoft Excel, each focusing on a specific dataset or domain.
 
-Project List
-Ecommerce Sales Analysis Dashboard
-HR Analytics Dashboard
-Adidas Sales Analysis Dashboard
-MacDonald's Sales 2022 Dashboard
+
 Ecommerce Sales Analysis Dashboard
 An Ecommerce Sales Analysis Dashboard showcasing proficient data analysis in Microsoft Excel. Gain insights into sales, profit, regional performance, category-wise profitability, top-selling subcategories, and a pie chart analysis of ecommerce sales composition. This project offers a data-driven approach to decision-making within the ecommerce sector, aiding in revenue optimization and strategic planning
 
@@ -23,41 +16,3 @@ An HR Analytics Dashboard project that delves into human resources data, providi
 Adidas Sales Analysis Dashboard
 Explore the 'Adidas Sales Analysis Dashboard' project, which offers an in-depth analysis of Adidas's sales performance. This analysis includes sales in USD ($), sales by region, and sales by method, providing insights into financial performance and distribution strategies. Additionally, a bar graph visualizes retailer sales and profit, helping to identify key contributors to overall sales and profitability in the sportswear industry
 
-MacDonald's Sales 2022 Dashboard
-Discover the 'MacDonald's Sales 2022 Dashboard,' a project that offers a comprehensive analysis of sales and customer-related data within the fast-food industry. This analysis includes insights into sales, profit, and the number of customers, a sales trend graph comparing 2021 to 2022, a pie chart of customer satisfaction, and a breakdown of sales by country in 2022. Gain valuable insights into financial performance, year-over-year trends, and customer sentiment to enhance strategic decision-making for MacDonald's
-
-Acknowledgments
-Feel Free to Explore and Experiment, I encourage you to explore the project, expriment with different data analysis approaches, and contribute to improving the analysis, visualizations, and insights. Your contributions and innovative ideas can be pivotal in advancing this project's effectiveness and generating valuable outcomes
-
-Contact
-For feedback, suggestions, or collaborations, feel free to connect with me : Contact Me - Gokul Raja - gokulraja840@gmail.com
-
-About
-A collection of Data Analytics and Interactive Dashboards Projects in Excel using Real-world data across various domains
-
-Resources
- Readme
- Activity
-Stars
- 5 stars
-Watchers
- 1 watching
-Forks
- 1 fork
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
