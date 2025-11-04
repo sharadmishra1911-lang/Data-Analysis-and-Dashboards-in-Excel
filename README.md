@@ -2,22 +2,9 @@ Data Analysis in Excel
 This repository contains a collection of data analysis projects conducted in Microsoft Excel, each focusing on a specific dataset or domain.
 
 Project List
-1. Ecommerce Sales Analysis Dashboard
-Update README.md
-2 years ago
+1. [Ecommerce Sales Analysis Dashboard](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/Ecommerce%20Sales%20Analysis%20Dashboard)
 2. [HR Analytics Dashboard](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/HR%20Analytics%20Dashboard)
-Update README.md
-2 years ago
-3. Adidas Sales Analysis Dashborad
-Update README.md
-2 years ago
-4. MacDonalds Sales 2022 Dashboard
-Update README.md
-2 years ago
-README.md
-Update README.md
-2 years ago
-Repository files navigation
+3. [Adidas Sales Analysis Dashborad](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/Adidas%20Sales%20Analysis%20Dashborad)
 README
 Data Analysis in Excel
 This repository contains a collection of data analysis projects conducted in Microsoft Excel, each focusing on a specific dataset or domain.
