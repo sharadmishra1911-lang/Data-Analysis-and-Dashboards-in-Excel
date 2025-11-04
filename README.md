@@ -5,7 +5,7 @@ Project List
 1. Ecommerce Sales Analysis Dashboard
 Update README.md
 2 years ago
-2. HR Analytics Dashboard
+2. [HR Analytics Dashboard](https://github.com/sharadmishra1911-lang/Data-Analysis-and-Dashboards-in-Excel/tree/main/HR%20Analytics%20Dashboard)
 Update README.md
 2 years ago
 3. Adidas Sales Analysis Dashborad
