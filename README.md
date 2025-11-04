@@ -1,29 +1,7 @@
-Skip to content
-Navigation Menu
-Gokul-Raja84
-Data-Analysis-and-Dashboards-in-Excel
+Data Analysis in Excel
+This repository contains a collection of data analysis projects conducted in Microsoft Excel, each focusing on a specific dataset or domain.
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-Data-Analysis-and-Dashboards-in-Excel
-Public
-Gokul-Raja84/Data-Analysis-and-Dashboards-in-Excel
-Go to file
-t
-Name		
-Gokul-Raja84
-Gokul-Raja84
-Update README.md
-cfcbeab
- · 
-2 years ago
+Project List
 1. Ecommerce Sales Analysis Dashboard
 Update README.md
 2 years ago
